@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou Raphael Alves 👋
 
-<!--
-**RaphaelAlves04/RaphaelAlves04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Gestão da Tecnologia da Informação  
+☁️ Focado em Cloud Computing, Infraestrutura e Redes  
+📚 Estudando AWS Cloud Practitioner e Azure Fundamentals  
+💻 Desenvolvendo projetos em Python, SQL e automação  
 
-Here are some ideas to get you started:
+## Tecnologias
+- Python
+- SQL
+- Linux
+- AWS
+- Azure
+- Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+LinkedIn: www.linkedin.com/in/raphael-alves-364611267
